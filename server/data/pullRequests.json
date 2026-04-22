@@ -1,0 +1,15 @@
+[
+  { "id": "PR-501", "devId": "dev-001", "title": "feat: rate limiter",       "openedAt": "2025-03-01T10:00:00Z", "mergedAt": "2025-03-02T14:00:00Z", "status": "merged" },
+  { "id": "PR-502", "devId": "dev-001", "title": "feat: redis cache",        "openedAt": "2025-03-06T09:00:00Z", "mergedAt": "2025-03-08T11:00:00Z", "status": "merged" },
+  { "id": "PR-503", "devId": "dev-001", "title": "feat: auth refresh",       "openedAt": "2025-03-13T08:00:00Z", "mergedAt": "2025-03-15T10:00:00Z", "status": "merged" },
+  { "id": "PR-504", "devId": "dev-001", "title": "feat: metrics endpoint",   "openedAt": "2025-03-19T11:00:00Z", "mergedAt": "2025-03-20T16:00:00Z", "status": "merged" },
+  { "id": "PR-505", "devId": "dev-001", "title": "feat: batch scheduler",    "openedAt": "2025-03-24T09:00:00Z", "mergedAt": "2025-03-26T12:00:00Z", "status": "merged" },
+  { "id": "PR-506", "devId": "dev-001", "title": "fix: scheduler edge case", "openedAt": "2025-03-27T14:00:00Z", "mergedAt": "2025-03-29T10:00:00Z", "status": "merged" },
+
+  { "id": "PR-601", "devId": "dev-002", "title": "feat: dashboard redesign", "openedAt": "2025-03-01T09:00:00Z", "mergedAt": "2025-03-05T14:00:00Z", "status": "merged" },
+  { "id": "PR-602", "devId": "dev-002", "title": "feat: component library",  "openedAt": "2025-03-11T10:00:00Z", "mergedAt": "2025-03-18T16:00:00Z", "status": "merged" },
+  { "id": "PR-603", "devId": "dev-002", "title": "feat: dark mode",          "openedAt": "2025-03-21T09:00:00Z", "mergedAt": "2025-03-25T11:00:00Z", "status": "merged" },
+
+  { "id": "PR-701", "devId": "dev-003", "title": "feat: db migration",       "openedAt": "2025-03-02T10:00:00Z", "mergedAt": "2025-03-06T09:00:00Z", "status": "merged" },
+  { "id": "PR-702", "devId": "dev-003", "title": "feat: grpc layer",         "openedAt": "2025-03-09T11:00:00Z", "mergedAt": "2025-03-20T15:00:00Z", "status": "merged" }
+]

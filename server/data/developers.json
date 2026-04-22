@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dev-001",
+    "name": "Arjun Mehta",
+    "role": "Senior Software Engineer",
+    "team": "Platform",
+    "avatar": "AM",
+    "avatarColor": "#6366f1",
+    "joinDate": "2022-03-14"
+  },
+  {
+    "id": "dev-002",
+    "name": "Priya Sharma",
+    "role": "Software Engineer II",
+    "team": "Frontend",
+    "avatar": "PS",
+    "avatarColor": "#ec4899",
+    "joinDate": "2023-01-09"
+  },
+  {
+    "id": "dev-003",
+    "name": "Rohan Das",
+    "role": "Software Engineer",
+    "team": "Backend",
+    "avatar": "RD",
+    "avatarColor": "#10b981",
+    "joinDate": "2023-07-21"
+  }
+]

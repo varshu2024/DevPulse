@@ -1,0 +1,9 @@
+[
+  { "id": "BUG-001", "devId": "dev-001", "reportedAt": "2025-03-10", "relatedPr": "PR-502", "severity": "medium" },
+  { "id": "BUG-002", "devId": "dev-001", "reportedAt": "2025-03-28", "relatedPr": "PR-505", "severity": "low" },
+
+  { "id": "BUG-101", "devId": "dev-002", "reportedAt": "2025-03-12", "relatedPr": "PR-601", "severity": "high" },
+
+  { "id": "BUG-201", "devId": "dev-003", "reportedAt": "2025-03-24", "relatedPr": "PR-702", "severity": "high" },
+  { "id": "BUG-202", "devId": "dev-003", "reportedAt": "2025-03-28", "relatedPr": "PR-702", "severity": "medium" }
+]

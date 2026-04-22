@@ -1,0 +1,26 @@
+{
+  "dev-001": [
+    { "month": "Oct", "leadTime": 4.2, "cycleTime": 8.1, "bugRate": 0.4,  "deployFreq": 3, "prThroughput": 4 },
+    { "month": "Nov", "leadTime": 3.8, "cycleTime": 7.5, "bugRate": 0.3,  "deployFreq": 4, "prThroughput": 5 },
+    { "month": "Dec", "leadTime": 3.5, "cycleTime": 6.9, "bugRate": 0.25, "deployFreq": 5, "prThroughput": 5 },
+    { "month": "Jan", "leadTime": 3.2, "cycleTime": 6.5, "bugRate": 0.2,  "deployFreq": 5, "prThroughput": 6 },
+    { "month": "Feb", "leadTime": 3.0, "cycleTime": 7.1, "bugRate": 0.3,  "deployFreq": 4, "prThroughput": 5 },
+    { "month": "Mar", "leadTime": 2.2, "cycleTime": 6.2, "bugRate": 0.33, "deployFreq": 6, "prThroughput": 6 }
+  ],
+  "dev-002": [
+    { "month": "Oct", "leadTime": 5.5, "cycleTime": 9.2,  "bugRate": 0.5,  "deployFreq": 2, "prThroughput": 3 },
+    { "month": "Nov", "leadTime": 5.1, "cycleTime": 9.0,  "bugRate": 0.4,  "deployFreq": 2, "prThroughput": 3 },
+    { "month": "Dec", "leadTime": 5.8, "cycleTime": 10.1, "bugRate": 0.5,  "deployFreq": 2, "prThroughput": 2 },
+    { "month": "Jan", "leadTime": 6.2, "cycleTime": 10.8, "bugRate": 0.6,  "deployFreq": 1, "prThroughput": 2 },
+    { "month": "Feb", "leadTime": 5.9, "cycleTime": 10.5, "bugRate": 0.5,  "deployFreq": 2, "prThroughput": 3 },
+    { "month": "Mar", "leadTime": 5.3, "cycleTime": 9.8,  "bugRate": 0.33, "deployFreq": 3, "prThroughput": 3 }
+  ],
+  "dev-003": [
+    { "month": "Oct", "leadTime": 6.0, "cycleTime": 11.0, "bugRate": 0.6,  "deployFreq": 2, "prThroughput": 2 },
+    { "month": "Nov", "leadTime": 7.1, "cycleTime": 12.5, "bugRate": 0.7,  "deployFreq": 1, "prThroughput": 2 },
+    { "month": "Dec", "leadTime": 8.5, "cycleTime": 14.0, "bugRate": 0.8,  "deployFreq": 1, "prThroughput": 1 },
+    { "month": "Jan", "leadTime": 9.2, "cycleTime": 15.1, "bugRate": 0.9,  "deployFreq": 1, "prThroughput": 1 },
+    { "month": "Feb", "leadTime": 8.8, "cycleTime": 14.5, "bugRate": 0.85, "deployFreq": 1, "prThroughput": 2 },
+    { "month": "Mar", "leadTime": 8.0, "cycleTime": 13.5, "bugRate": 1.0,  "deployFreq": 2, "prThroughput": 2 }
+  ]
+}

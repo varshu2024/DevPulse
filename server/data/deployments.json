@@ -1,0 +1,15 @@
+[
+  { "id": "D-001", "devId": "dev-001", "prId": "PR-501", "deployedAt": "2025-03-02T17:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-002", "devId": "dev-001", "prId": "PR-502", "deployedAt": "2025-03-08T15:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-003", "devId": "dev-001", "prId": "PR-503", "deployedAt": "2025-03-15T13:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-004", "devId": "dev-001", "prId": "PR-504", "deployedAt": "2025-03-20T18:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-005", "devId": "dev-001", "prId": "PR-505", "deployedAt": "2025-03-26T15:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-006", "devId": "dev-001", "prId": "PR-506", "deployedAt": "2025-03-29T14:00:00Z", "env": "production", "status": "success" },
+
+  { "id": "D-101", "devId": "dev-002", "prId": "PR-601", "deployedAt": "2025-03-05T17:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-102", "devId": "dev-002", "prId": "PR-602", "deployedAt": "2025-03-18T18:30:00Z", "env": "production", "status": "success" },
+  { "id": "D-103", "devId": "dev-002", "prId": "PR-603", "deployedAt": "2025-03-25T14:00:00Z", "env": "production", "status": "success" },
+
+  { "id": "D-201", "devId": "dev-003", "prId": "PR-701", "deployedAt": "2025-03-06T13:00:00Z", "env": "production", "status": "success" },
+  { "id": "D-202", "devId": "dev-003", "prId": "PR-702", "deployedAt": "2025-03-20T17:00:00Z", "env": "production", "status": "success" }
+]
