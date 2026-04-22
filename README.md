@@ -2,9 +2,24 @@
 
 A focused full-stack MVP that helps individual contributors move from raw productivity metrics to clear interpretation and actionable next steps.
 
+
 **Live demo:** `npm start` (frontend) + `node server/index.js` (backend)
 
+**Miro User Journey Board:** [View on Miro](https://miro.com/app/board/uXjVHe-Zcgc=/?share_link_id=632067602157)
+
 ---
+
+## Deliverables
+
+| Deliverable | Link |
+|---|---|
+| GitHub Code | [varshu2024/DevPulse](https://github.com/varshu2024/DevPulse) |
+| Miro User Journey | [View Board](https://miro.com/app/board/uXjVHe-Zcgc=/?share_link_id=632067602157) |
+| Local Frontend | `http://localhost:3000` |
+| Local API | `http://localhost:3001/api` |
+
+---
+
 
 ## The Problem
 
